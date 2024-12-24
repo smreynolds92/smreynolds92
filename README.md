@@ -3,7 +3,7 @@
 Computer/Data Scientist | AI Explorer | Lifelong Learner
 ---
 ### 🌱 About Me
-I'm a computer scientist focused on refining my skills to become more efficient/effective in solving real-world problems. My passion lies in leveraging AI technologies to create innovative solutions that drive meaningful impact.
+I'm a Computer Scientist focused on refining my skills to become more efficient/effective in solving real-world problems. My passion lies in leveraging AI technologies to create innovative solutions that drive meaningful impact.
 |
 ### 🔭 What I do
 - 🤖 Developing AI-driven solutions to tackle real-world challenges.
